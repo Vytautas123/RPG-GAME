@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: d3cce13f99adf75478d14846311885a6
+timeCreated: 1519243984
+licenseType: Free
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - heltBar: {instanceID: 0}
+  - pickupEffect: {fileID: 1000011797152326, guid: acf39d9f4addf294d93fa56fa373961b,
+      type: 2}
+  - enemy: {fileID: 1000011797152326, guid: acf39d9f4addf294d93fa56fa373961b, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
